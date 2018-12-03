@@ -1,0 +1,4 @@
+07/10/18 18:17:45 [AppID 374040] Exit Code (0) :  "D:\newsteam\steamapps\common\Portal Knights\_CommonRedist\vcredist\2013\vcredist_x86.exe" /quiet /norestart GLE 0
+07/10/18 18:17:45 [AppID 374040] Exit Code (0) :  "D:\newsteam\steamapps\common\Portal Knights\_CommonRedist\vcredist\2013\vcredist_x64.exe" /quiet /norestart GLE 131
+07/10/18 18:17:54 [AppID 374040] Exit Code (0) :  "D:\newsteam\steamapps\common\Portal Knights\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x86.cmd"  GLE 183
+07/10/18 18:17:57 [AppID 374040] Exit Code (0) :  "D:\newsteam\steamapps\common\Portal Knights\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x64.cmd"  GLE 183

@@ -1,0 +1,136 @@
+Tue Jul 10 10:17:58 2018 UTC - Module file name: D:\newsteam\gameoverlayrenderer64.dll
+Tue Jul 10 10:17:58 2018 UTC - GameID = 374040
+Tue Jul 10 10:17:58 2018 UTC - System page size: 4096
+Tue Jul 10 10:17:58 2018 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, and SetCursor
+Tue Jul 10 10:17:58 2018 UTC - Aborting HookFunc because pHookFunctionAddr is null
+Tue Jul 10 10:17:58 2018 UTC - Failed hooking RegisterDeviceNotificationA()
+Tue Jul 10 10:17:58 2018 UTC - Aborting HookFunc because pHookFunctionAddr is null
+Tue Jul 10 10:17:58 2018 UTC - Failed hooking RegisterDeviceNotificationW()
+Tue Jul 10 10:17:58 2018 UTC - Aborting HookFunc because pHookFunctionAddr is null
+Tue Jul 10 10:17:58 2018 UTC - Failed hooking UnregisterDeviceNotification()
+Tue Jul 10 10:17:58 2018 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Tue Jul 10 10:17:58 2018 UTC - Game is using dinput8, preparing to hook.
+Tue Jul 10 10:17:58 2018 UTC - Modules at GameOverlayRenderer.dll attach
+Tue Jul 10 10:17:58 2018 UTC - 01: portal_knights_x64.exe - (00007FF73EA70000 to 00007FF73F812000)
+Tue Jul 10 10:17:58 2018 UTC - 02: ntdll.dll - (00007FF8185A0000 to 00007FF818762000)
+Tue Jul 10 10:17:58 2018 UTC - 03: KERNEL32.DLL - (00007FF816250000 to 00007FF8162FD000)
+Tue Jul 10 10:17:58 2018 UTC - 04: KERNELBASE.dll - (00007FF815220000 to 00007FF8153FD000)
+Tue Jul 10 10:17:58 2018 UTC - 05: USER32.dll - (00007FF816530000 to 00007FF81667E000)
+Tue Jul 10 10:17:58 2018 UTC - 06: GDI32.dll - (00007FF815C60000 to 00007FF815DE3000)
+Tue Jul 10 10:17:58 2018 UTC - 07: SHELL32.dll - (00007FF816680000 to 00007FF817BA3000)
+Tue Jul 10 10:17:58 2018 UTC - 08: msvcrt.dll - (00007FF817EA0000 to 00007FF817F3D000)
+Tue Jul 10 10:17:58 2018 UTC - 09: windows.storage.dll - (00007FF815400000 to 00007FF815A29000)
+Tue Jul 10 10:17:58 2018 UTC - 10: combase.dll - (00007FF818320000 to 00007FF81859C000)
+Tue Jul 10 10:17:58 2018 UTC - 11: RPCRT4.dll - (00007FF815EA0000 to 00007FF815FC6000)
+Tue Jul 10 10:17:58 2018 UTC - 12: advapi32.dll - (00007FF817BB0000 to 00007FF817C56000)
+Tue Jul 10 10:17:58 2018 UTC - 13: sechost.dll - (00007FF817CC0000 to 00007FF817D1B000)
+Tue Jul 10 10:17:58 2018 UTC - 14: shlwapi.dll - (00007FF8163F0000 to 00007FF816441000)
+Tue Jul 10 10:17:58 2018 UTC - 15: kernel.appcore.dll - (00007FF814FC0000 to 00007FF814FCF000)
+Tue Jul 10 10:17:58 2018 UTC - 16: shcore.dll - (00007FF815060000 to 00007FF815113000)
+Tue Jul 10 10:17:58 2018 UTC - 17: powrprof.dll - (00007FF815010000 to 00007FF81505A000)
+Tue Jul 10 10:17:58 2018 UTC - 18: profapi.dll - (00007FF814FD0000 to 00007FF814FE3000)
+Tue Jul 10 10:17:58 2018 UTC - 19: ole32.dll - (00007FF818010000 to 00007FF818151000)
+Tue Jul 10 10:17:58 2018 UTC - 20: WS2_32.dll - (00007FF816450000 to 00007FF8164B9000)
+Tue Jul 10 10:17:58 2018 UTC - 21: NSI.dll - (00007FF818310000 to 00007FF818318000)
+Tue Jul 10 10:17:58 2018 UTC - 22: OLEAUT32.dll - (00007FF817F40000 to 00007FF818002000)
+Tue Jul 10 10:17:58 2018 UTC - 23: CRYPT32.dll - (00007FF815A30000 to 00007FF815BF1000)
+Tue Jul 10 10:17:58 2018 UTC - 24: MSASN1.dll - (00007FF814FF0000 to 00007FF815001000)
+Tue Jul 10 10:17:58 2018 UTC - 25: WINMM.dll - (00007FF8136D0000 to 00007FF8136F3000)
+Tue Jul 10 10:17:58 2018 UTC - 26: dbghelp.dll - (00007FF8048F0000 to 00007FF804A7A000)
+Tue Jul 10 10:17:58 2018 UTC - 27: DINPUT8.dll - (00007FF80D0E0000 to 00007FF80D121000)
+Tue Jul 10 10:17:58 2018 UTC - 28: dxgi.dll - (00007FF811B70000 to 00007FF811C0C000)
+Tue Jul 10 10:17:58 2018 UTC - 29: d3d11.dll - (00007FF811C10000 to 00007FF811EB3000)
+Tue Jul 10 10:17:58 2018 UTC - 30: steam_api64.dll - (0000000052ED0000 to 0000000052F11000)
+Tue Jul 10 10:17:58 2018 UTC - 31: WINMMBASE.dll - (00007FF8136A0000 to 00007FF8136CC000)
+Tue Jul 10 10:17:58 2018 UTC - 32: cfgmgr32.dll - (00007FF8151D0000 to 00007FF815214000)
+Tue Jul 10 10:17:58 2018 UTC - 33: DEVOBJ.dll - (00007FF8138A0000 to 00007FF8138C7000)
+Tue Jul 10 10:17:58 2018 UTC - 34: dbgcore.DLL - (00007FF805FF0000 to 00007FF806015000)
+Tue Jul 10 10:17:58 2018 UTC - 35: CRYPTBASE.DLL - (00007FF814A00000 to 00007FF814A0B000)
+Tue Jul 10 10:17:58 2018 UTC - 36: bcryptPrimitives.dll - (00007FF814E10000 to 00007FF814E7B000)
+Tue Jul 10 10:17:58 2018 UTC - 37: IMM32.DLL - (00007FF815FD0000 to 00007FF816006000)
+Tue Jul 10 10:17:58 2018 UTC - 38: MSCTF.dll - (00007FF817D40000 to 00007FF817E9C000)
+Tue Jul 10 10:17:58 2018 UTC - 39: spacedeskHookUmode.dll - (00007FF812840000 to 00007FF8128FE000)
+Tue Jul 10 10:17:58 2018 UTC - 40: SETUPAPI.dll - (00007FF816080000 to 00007FF816245000)
+Tue Jul 10 10:17:58 2018 UTC - 41: ntmarta.dll - (00007FF814360000 to 00007FF814392000)
+Tue Jul 10 10:17:58 2018 UTC - 42: gameoverlayrenderer64.dll - (00007FFFF6210000 to 00007FFFF6395000)
+Tue Jul 10 10:17:58 2018 UTC - 43: PSAPI.DLL - (00007FF8164C0000 to 00007FF8164C8000)
+Tue Jul 10 10:17:58 2018 UTC - ----------------------------
+Tue Jul 10 10:18:01 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:18:01 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:18:01 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:18:01 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:18:01 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:18:01 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:18:01 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:18:01 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:18:01 2018 UTC - IWrapDXGIFactory1::CreateSwapChain called
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for swap chain
+Tue Jul 10 10:18:01 2018 UTC - Trying to detour d3d11 device
+Tue Jul 10 10:18:01 2018 UTC - Hooking vtable for device
+Tue Jul 10 10:18:01 2018 UTC - Tracking new device: 7ac07fa0
+Tue Jul 10 10:18:01 2018 UTC - Tracking new swap chain: 7ac2a750 (with device: 7ac07fa0)
+Tue Jul 10 10:18:01 2018 UTC - Creating D3D11 renderer
+Tue Jul 10 10:18:01 2018 UTC - Releasing all resources for device: 000000797AC07FA0
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputEnable Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetAudioDeviceIds Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetBatteryInformation Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetCapabilities Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetKeystroke Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetState Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputGetStateEX Version 14
+Tue Jul 10 10:18:01 2018 UTC - XInput Hooked XInputSetState Version 14
+Tue Jul 10 10:18:01 2018 UTC - DirectInput8Create hook called, 000000797AC46830
+Tue Jul 10 10:18:01 2018 UTC - Creating IWrapWbemLocator
+Tue Jul 10 10:18:01 2018 UTC - CoCreateInstance hook created WbemLocator interface 000000797AC463D0
+Tue Jul 10 10:18:02 2018 UTC - Creating IWrapEnumWbemClassObject
+Tue Jul 10 10:18:02 2018 UTC - IWrapEnumWbemClassObject 000000797AC468B0 deleting
+Tue Jul 10 10:18:02 2018 UTC - IWrapWbemLocator 000000797AC463D0 deleting
+Tue Jul 10 10:18:02 2018 UTC - DirectInput::CreateDevice() called for unknown guid {73E7ED90-71A9-11E6-8001-444553540000}
+Tue Jul 10 10:18:02 2018 UTC - Creating IWrapWbemLocator
+Tue Jul 10 10:18:02 2018 UTC - CoCreateInstance hook created WbemLocator interface 000000797AC468B0
+Tue Jul 10 10:18:02 2018 UTC - Creating IWrapEnumWbemClassObject
+Tue Jul 10 10:18:02 2018 UTC - IWrapEnumWbemClassObject 000000797AC46930 deleting
+Tue Jul 10 10:18:02 2018 UTC - IWrapWbemLocator 000000797AC468B0 deleting
+Tue Jul 10 10:18:02 2018 UTC - DirectInput::CreateDevice() called for unknown guid {73ECA880-71A9-11E6-8002-444553540000}
+Tue Jul 10 10:18:02 2018 UTC - Initializing Audio...
+Tue Jul 10 10:18:03 2018 UTC - IAudioClient_Initialize - SUCCEEDED
+Tue Jul 10 10:18:03 2018 UTC - Audio client initialized: 0x000000797F75AB70
+Tue Jul 10 10:18:03 2018 UTC - Device:
+Tue Jul 10 10:18:03 2018 UTC - Audio client mix format:
+Tue Jul 10 10:18:03 2018 UTC - 	format: 65534
+Tue Jul 10 10:18:03 2018 UTC - 	channels: 2
+Tue Jul 10 10:18:03 2018 UTC - 	samples/sec: 44100
+Tue Jul 10 10:18:03 2018 UTC - 	bytes/sec: 352800
+Tue Jul 10 10:18:03 2018 UTC - 	alignment: 8
+Tue Jul 10 10:18:03 2018 UTC - 	bits/sample: 32
+Tue Jul 10 10:18:03 2018 UTC - 	channel mask: 0x3
+Tue Jul 10 10:18:03 2018 UTC - 	data format: {00000001-0000-0010-8000-00AA00389B71}
+Tue Jul 10 10:18:03 2018 UTC - Audio hooked
+Tue Jul 10 10:18:03 2018 UTC - Audio client started: 0x000000797F75AB70, 1
+Tue Jul 10 10:18:09 2018 UTC - Trying to setup input hook...
+Tue Jul 10 10:18:09 2018 UTC - Set input hook...
+Tue Jul 10 10:19:04 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:19:04 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:19:04 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:19:04 2018 UTC - hookCreateDXGIFactory1 called
+Tue Jul 10 10:19:04 2018 UTC - Hooking vtable for factory
+Tue Jul 10 10:19:04 2018 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - Found a hooked function in now unloaded module, removing from map.
+Tue Jul 10 10:20:18 2018 UTC - DInput 000000797AC46830 deleting
+Tue Jul 10 10:20:18 2018 UTC - DeleteD3D11RendererForSwapChain called for: 000000797AC2A750
+Tue Jul 10 10:20:18 2018 UTC - Releasing all resources for device: 000000797AC07FA0
+Tue Jul 10 10:20:18 2018 UTC - Detaching input hook...
+Tue Jul 10 10:20:18 2018 UTC - DeleteDevice called for: 000000797AC07FA0
+Tue Jul 10 10:20:18 2018 UTC - No renderer for this device
+Tue Jul 10 10:20:18 2018 UTC - GameOverlayRenderer.dll detaching

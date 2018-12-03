@@ -1,0 +1,101 @@
+
+
+[2018-07-05 16:35:48] ProductInfoChanges: change number 0->4718874, apps: 0/0, packages: 0/0
+[2018-07-05 16:35:48] UpdatesJob: requesting 2 apps, 1 packages (meta data, 1024 prev attempts)
+[2018-07-05 16:35:49] UpdatesJob: requested 1 access tokens, 0 received, 1 denied
+[2018-07-05 16:35:49] UpdatesJob: requesting 2 apps, 1 packages (full data, 1024 prev attempts)
+[2018-07-05 16:35:49] UpdatesJob: finished OK, nAppsUpdated 2 (0 KB), nPackagesUpdated 1 (9 KB)
+[2018-07-05 16:35:49] UpdatesJob: requesting 199 apps, 0 packages (meta data, 1024 prev attempts)
+[2018-07-05 16:35:50] UpdatesJob: requested 44 access tokens, 42 received, 2 denied
+[2018-07-05 16:35:50] UpdatesJob: updated SHAs with 42 new access tokens
+[2018-07-05 16:35:51] UpdatesJob: downloaded 4 apps via HTTP, 301 KB (50 KB compressed)
+[2018-07-05 16:35:51] UpdatesJob: requesting 195 apps, 0 packages (full data, 1024 prev attempts)
+[2018-07-05 16:35:53] UpdatesJob: finished OK, nAppsUpdated 199 (628 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:35:54] UpdatesJob: requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:35:55] UpdatesJob: requested 1 access tokens, 0 received, 1 denied
+[2018-07-05 16:35:55] UpdatesJob: downloaded 2 apps via HTTP, 40 KB (9 KB compressed)
+[2018-07-05 16:35:55] UpdatesJob: requesting 4 apps, 0 packages (full data, 0 prev attempts)
+[2018-07-05 16:35:55] UpdatesJob: finished OK, nAppsUpdated 6 (58 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:35:55] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:35:56] UpdatesJob: requesting 5 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:35:57] UpdatesJob: downloaded 5 apps via HTTP, 26 KB (8 KB compressed)
+[2018-07-05 16:35:57] UpdatesJob: finished OK, nAppsUpdated 5 (26 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:36:12] Starting async write D:\newsteam/appcache/appinfo.vdf (554529 bytes)
+[2018-07-05 16:36:57] ProductInfoChanges: change number 4718874->4718875, apps: 0/1, packages: 0/0
+[2018-07-05 16:40:36] ProductInfoChanges: change number 4718875->4718889, apps: 0/15, packages: 0/0
+[2018-07-05 16:40:36] UpdatesJob: requesting 0 apps, 1 packages (meta data, 0 prev attempts)
+[2018-07-05 16:40:36] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:40:46] UpdatesJob: requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:40:57] UpdatesJob: failed request /appinfo/304930/sha/4a7ff1d91895a350e228e7b1ed07e18c2e109a38.txt.gz
+[2018-07-05 16:40:57] UpdatesJob: downloaded 0 apps via HTTP, 0 KB (0 KB compressed)
+[2018-07-05 16:40:57] UpdatesJob: requesting 1 apps, 1 packages (full data, 0 prev attempts)
+[2018-07-05 16:40:57] UpdatesJob: finished OK, nAppsUpdated 1 (10 KB), nPackagesUpdated 1 (0 KB)
+[2018-07-05 16:40:58] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:40:58] RequestAppInfoUpdate: nNumAppIDs 1
+[2018-07-05 16:40:58] UpdatesJob: requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:41:09] UpdatesJob: failed request /appinfo/228980/sha/e0307a0b79909dfa85cd6c56a46274e84d3c684c.txt.gz
+[2018-07-05 16:41:09] UpdatesJob: downloaded 0 apps via HTTP, 0 KB (0 KB compressed)
+[2018-07-05 16:41:09] UpdatesJob: requesting 1 apps, 0 packages (full data, 0 prev attempts)
+[2018-07-05 16:41:09] UpdatesJob: finished OK, nAppsUpdated 1 (4 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:41:24] Starting async write D:\newsteam/appcache/appinfo.vdf (565393 bytes)
+[2018-07-05 16:45:42] ProductInfoChanges: change number 4718889->4718900, apps: 0/9, packages: 0/2
+[2018-07-05 16:50:07] UpdatesJob: requesting 0 apps, 1 packages (meta data, 0 prev attempts)
+[2018-07-05 16:50:08] UpdatesJob: requesting 0 apps, 1 packages (full data, 0 prev attempts)
+[2018-07-05 16:50:08] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 1 (0 KB)
+[2018-07-05 16:50:08] UpdatesJob: requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:50:09] UpdatesJob: downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2018-07-05 16:50:09] UpdatesJob: finished OK, nAppsUpdated 1 (11 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:50:24] Starting async write D:\newsteam/appcache/appinfo.vdf (574206 bytes)
+[2018-07-05 16:55:16] RequestAppInfoUpdate: nNumAppIDs 1
+[2018-07-05 16:55:16] UpdatesJob: requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-05 16:55:16] UpdatesJob: requesting 6 apps, 0 packages (full data, 0 prev attempts)
+[2018-07-05 16:55:17] UpdatesJob: finished OK, nAppsUpdated 6 (9 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:55:17] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 16:55:32] Starting async write D:\newsteam/appcache/appinfo.vdf (582168 bytes)
+[2018-07-05 17:00:42] ProductInfoChanges: change number 4718900->4718931, apps: 0/29, packages: 0/3
+[2018-07-05 17:15:42] ProductInfoChanges: change number 4718931->4718988, apps: 0/42, packages: 0/12
+[2018-07-05 17:30:42] ProductInfoChanges: change number 4718988->4719031, apps: 0/29, packages: 0/8
+[2018-07-05 17:45:42] ProductInfoChanges: change number 4719031->4719105, apps: 0/55, packages: 0/0
+[2018-07-05 17:45:42] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-05 17:45:42] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 18:00:42] ProductInfoChanges: change number 4719105->4719157, apps: 0/45, packages: 0/0
+[2018-07-05 18:00:42] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-05 18:00:42] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 18:15:42] ProductInfoChanges: change number 4719157->4719215, apps: 0/44, packages: 0/0
+[2018-07-05 18:15:42] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-05 18:15:42] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-05 18:30:42] ProductInfoChanges: change number 4719215->4719278, apps: 0/49, packages: 0/0
+[2018-07-05 18:30:42] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-05 18:30:43] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2018-07-10 17:54:14] ProductInfoChanges: change number 4719278->4738342, apps: 0/0, packages: 0/0
+[2018-07-10 17:54:14] UpdatesJob: requesting 221 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-10 17:54:16] UpdatesJob: requested 4 access tokens, 0 received, 4 denied
+[2018-07-10 17:54:16] UpdatesJob: downloaded 15 apps via HTTP, 362 KB (69 KB compressed)
+[2018-07-10 17:54:16] UpdatesJob: finished OK, nAppsUpdated 15 (362 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 17:54:31] Starting async write D:\newsteam/appcache/appinfo.vdf (585554 bytes)
+[2018-07-10 18:09:14] ProductInfoChanges: change number 4738342->4738403, apps: 0/39, packages: 0/6
+[2018-07-10 18:10:02] RequestAppInfoUpdate: nNumAppIDs 1
+[2018-07-10 18:10:02] UpdatesJob: requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-10 18:10:02] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 18:18:11] UpdatesJob: requesting 4 apps, 0 packages (meta data, 0 prev attempts)
+[2018-07-10 18:18:12] UpdatesJob: requested 3 access tokens, 0 received, 3 denied
+[2018-07-10 18:18:12] UpdatesJob: requesting 4 apps, 0 packages (full data, 0 prev attempts)
+[2018-07-10 18:18:12] UpdatesJob: finished OK, nAppsUpdated 4 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 18:18:27] Starting async write D:\newsteam/appcache/appinfo.vdf (586335 bytes)
+[2018-07-10 18:24:14] ProductInfoChanges: change number 4738403->4738471, apps: 0/44, packages: 0/9
+[2018-07-10 18:39:15] ProductInfoChanges: change number 4738471->4738513, apps: 0/35, packages: 0/4
+[2018-07-10 18:54:14] ProductInfoChanges: change number 4738513->4738559, apps: 0/38, packages: 0/2
+[2018-07-10 19:09:14] ProductInfoChanges: change number 4738559->4738630, apps: 0/50, packages: 0/0
+[2018-07-10 19:09:14] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-10 19:09:15] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 19:24:15] ProductInfoChanges: change number 4738630->4738713, apps: 0/58, packages: 0/0
+[2018-07-10 19:24:15] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-10 19:24:15] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 19:39:14] ProductInfoChanges: change number 4738713->4738761, apps: 0/48, packages: 0/11
+[2018-07-10 19:54:14] ProductInfoChanges: change number 4738761->4738813, apps: 0/42, packages: 0/5
+[2018-07-10 20:09:15] ProductInfoChanges: change number 4738813->4738868, apps: 0/37, packages: 0/0
+[2018-07-10 20:09:15] UpdatesJob: requesting 0 apps, 3 packages (meta data, 0 prev attempts)
+[2018-07-10 20:09:15] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-07-10 20:24:15] ProductInfoChanges: change number 4738868->4738982, apps: 0/103, packages: 0/4

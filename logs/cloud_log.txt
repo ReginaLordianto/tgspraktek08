@@ -1,0 +1,80 @@
+
+
+[2018-07-05 16:35:48] [U:1:886015064] [AppID 7] Init cache request complete
+[2018-07-05 16:35:48] Starting sync job
+[2018-07-05 16:35:48] [AppID 7] Starting sync (init)
+[2018-07-05 16:35:53] Starting sync job
+[2018-07-05 16:35:53] [AppID 7] Starting sync (download)
+[2018-07-05 16:35:54] [AppID 7] Download complete in build list
+[2018-07-05 16:36:57] Starting sync job
+[2018-07-05 16:36:57] [AppID 7] Starting sync (download)
+[2018-07-05 16:36:57] [AppID 7] Eval complete
+[2018-07-05 16:36:57] [AppID 7] Download complete in build list
+[2018-07-05 16:40:36] Starting sync job
+[2018-07-05 16:40:36] [AppID 7] Starting sync (download)
+[2018-07-05 16:40:36] [AppID 7] Eval complete
+[2018-07-05 16:40:36] [AppID 7] Download complete in build list
+[2018-07-05 16:41:06] Starting sync job
+[2018-07-05 16:41:06] [AppID 7] Starting sync (upload)
+[2018-07-05 16:41:06] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-07-05 16:41:07] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2018-07-05 16:41:18] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=152) to host 'steamcloudsg.blob.core.windows.net', path /cloud/58/84/CF/34/7/034_8_1965A4A9_1746A_1.dat - timed out.
+[2018-07-05 16:41:18] [AppID 7] Upload Failure for file sharedconfig.vdf
+[2018-07-05 16:41:18] [AppID 7] Upload complete, result Failure
+[2018-07-05 16:45:42] Starting sync job
+[2018-07-05 16:45:42] [AppID 7] Starting sync (download)
+[2018-07-05 16:45:42] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-07-05 16:45:42] [AppID 7] Eval complete
+[2018-07-05 16:45:42] [AppID 7] Download complete in build list
+[2018-07-05 17:11:48] Starting sync job
+[2018-07-05 17:11:48] [AppID 7] Starting sync (upload)
+[2018-07-05 17:11:48] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-07-05 17:11:49] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2018-07-05 17:12:00] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=152) to host 'steamcloudsg.blob.core.windows.net', path /cloud/58/84/CF/34/7/034_8_196787F4_024E1_1.dat - timed out.
+[2018-07-05 17:12:00] [AppID 7] Upload Failure for file sharedconfig.vdf
+[2018-07-05 17:12:00] [AppID 7] Upload complete, result Failure
+[2018-07-05 17:42:30] Starting sync job
+[2018-07-05 17:42:30] [AppID 7] Starting sync (upload)
+[2018-07-05 17:42:30] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-07-05 17:42:30] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2018-07-05 17:42:31] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=152) to host 'steamcloudsg.blob.core.windows.net', path /cloud/58/84/CF/34/7/034_8_196787F4_18BA6_1.dat - success.
+[2018-07-05 17:42:31] [AppID 7] Upload OK for file sharedconfig.vdf
+[2018-07-05 17:42:31] [AppID 7] Upload complete, result OK
+
+
+[2018-07-10 17:54:12] [U:1:886015064] [AppID 7] Init cache request complete
+[2018-07-10 17:54:12] Starting sync job
+[2018-07-10 17:54:12] [AppID 7] Starting sync (init)
+[2018-07-10 17:54:14] Starting sync job
+[2018-07-10 17:54:14] [AppID 7] Starting sync (download)
+[2018-07-10 17:54:14] [AppID 7] File is in sync sharedconfig.vdf
+[2018-07-10 17:54:14] [AppID 7] Eval complete
+[2018-07-10 17:54:14] [AppID 7] Download complete in build list
+[2018-07-10 17:54:45] Starting sync job
+[2018-07-10 17:54:45] [AppID 7] Starting sync (upload)
+[2018-07-10 17:54:45] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-07-10 17:54:45] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2018-07-10 17:54:49] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=230) to host 'steamcloudsg.blob.core.windows.net', path /cloud/58/84/CF/34/7/034_8_196787F4_18BA6_2.dat - success.
+[2018-07-10 17:54:50] [AppID 7] Upload OK for file sharedconfig.vdf
+[2018-07-10 17:54:50] [AppID 7] Upload complete, result OK
+[2018-07-10 18:11:54] [U:1:886015064] [AppID 374040] Init cache request complete
+[2018-07-10 18:11:54] Starting sync job
+[2018-07-10 18:11:54] [AppID 374040] Starting sync (eval)
+[2018-07-10 18:11:54] [AppID 374040] Eval complete
+[2018-07-10 18:17:57] [U:1:886015064] [AppID 760] Init cache request complete
+[2018-07-10 18:17:57] Starting sync job
+[2018-07-10 18:17:57] [AppID 760] Starting sync (eval)
+[2018-07-10 18:17:57] [AppID 374040] Starting sync (eval)
+[2018-07-10 18:17:58] [AppID 760] Eval complete
+[2018-07-10 18:17:58] [AppID 374040] Eval complete
+[2018-07-10 18:17:58] [AppID 374040] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-07-10 18:17:58] [AppID 374040] AutoCloud done. Watching 0 files
+[2018-07-10 18:20:21] [AppID 374040] Running AutoCloud on exit. Looking for new and updated files
+[2018-07-10 18:20:21] [AppID 374040] AutoCloud complete
+[2018-07-10 18:20:21] Starting sync job
+[2018-07-10 18:20:21] [AppID 374040] Starting sync (upload)
+[2018-07-10 18:20:21] [AppID 374040] Need to upload file 0000000000000000
+[2018-07-10 18:20:22] [AppID 374040] HTTP upload for file '0000000000000000' beginning . . .
+[2018-07-10 18:20:22] [AppID 374040] HTTP upload for file '0000000000000000' (offset=0, length=679) to host 'steamcloudsg.blob.core.windows.net', path /cloud/58/84/CF/34/374040/034_8_196DF610_ACD6F_1.dat - success.
+[2018-07-10 18:20:23] [AppID 374040] Upload OK for file 0000000000000000
+[2018-07-10 18:20:23] [AppID 374040] Upload complete, result OK

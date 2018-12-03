@@ -1,0 +1,53 @@
+"AppState"
+{
+	"appid"		"374040"
+	"Universe"		"1"
+	"name"		"Portal Knights"
+	"StateFlags"		"4"
+	"installdir"		"Portal Knights"
+	"LastUpdated"		"1531217509"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"8885866050"
+	"buildid"		"2845128"
+	"LastOwner"		"76561198846280792"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"InstalledDepots"
+	{
+		"228985"
+		{
+			"manifest"		"3966345552745568756"
+		}
+		"228986"
+		{
+			"manifest"		"1003373983685403880"
+		}
+		"228990"
+		{
+			"manifest"		"1829726630299308803"
+		}
+		"374041"
+		{
+			"manifest"		"5867053124520319265"
+		}
+	}
+	"MountedDepots"
+	{
+		"228985"		"3966345552745568756"
+		"228986"		"1003373983685403880"
+		"228990"		"1829726630299308803"
+		"374041"		"5867053124520319265"
+	}
+	"InstallScripts"
+	{
+		"228985"		"_CommonRedist\\vcredist\\2013\\installscript.vdf"
+		"228986"		"_CommonRedist\\vcredist\\2015\\installscript.vdf"
+		"228990"		"_CommonRedist\\DirectX\\Jun2010\\installscript.vdf"
+	}
+}

@@ -1,0 +1,16 @@
+[0705/163133.663:INFO:crash_reporting.cc(215)] Crash reporting enabled for process: browser
+[0705/163136.877:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+[0705/163647.480:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 157
+[0705/163647.615:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 159
+[0705/163647.867:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 163
+[0705/163648.000:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 179
+[0705/163648.405:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 187
+[0705/163648.512:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 193
+[0705/164005.351:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[0705/164005.546:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[0705/164006.090:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 85
+[0705/164043.093:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 329
+[0705/164043.441:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 331
+[0705/164043.712:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 333
+[0710/175250.714:INFO:crash_reporting.cc(215)] Crash reporting enabled for process: browser
+[0710/175250.933:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.

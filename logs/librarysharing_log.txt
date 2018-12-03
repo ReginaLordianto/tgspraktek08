@@ -1,0 +1,4 @@
+
+
+[2018-07-05 16:36:06] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+[2018-07-05 16:37:10] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK

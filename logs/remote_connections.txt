@@ -1,0 +1,30 @@
+
+
+[2018-07-05 16:35:47] Generated client id: 3646668082109809965
+[2018-07-05 16:35:47] Listening for broadcast on: 27036
+[2018-07-05 16:35:47] Listening for connections on: 0.0.0.0:27036
+[2018-07-05 16:35:48] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:35:52] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:36:17] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:37:00] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:37:05] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:37:21] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:40:39] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:40:44] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:41:00] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:41:45] Received offline message from client 7450117518298272846
+[2018-07-05 16:48:09] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:48:09] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:48:09] Received discovery message from client 7450117518298272846
+[2018-07-05 16:48:10] Received discovery message from client 7450117518298272846
+[2018-07-05 16:48:12] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-05 16:48:16] Received discovery message from client 7450117518298272846
+[2018-07-05 16:48:31] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+
+
+[2018-07-10 17:54:14] Loaded client id: 3646668082109809965
+[2018-07-10 17:54:14] Listening for broadcast on: 27036
+[2018-07-10 17:54:14] Listening for connections on: 0.0.0.0:27036
+[2018-07-10 17:54:15] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-10 17:54:18] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036
+[2018-07-10 17:54:41] Received broadcast message from client 7450117518298272846 (DESKTOP-MJAS34J): 10.10.1.212:27036

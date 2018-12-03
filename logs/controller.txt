@@ -1,0 +1,287 @@
+
+
+[2018-07-05 16:31:36] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 16:31:36]   Manufacturer: 
+
+[2018-07-05 16:31:36]   Product:      Monect Hid Device
+
+[2018-07-05 16:31:36]   Release:      0
+
+[2018-07-05 16:31:36]   Interface:    -1
+
+
+[2018-07-05 16:31:36] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 16:31:36]   Manufacturer: 
+
+[2018-07-05 16:31:36]   Product:      Monect Hid Device
+
+[2018-07-05 16:31:36]   Release:      0
+
+[2018-07-05 16:31:36]   Interface:    -1
+
+
+[2018-07-05 16:34:44] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 16:34:44]   Manufacturer: 
+
+[2018-07-05 16:34:44]   Product:      Monect Hid Device
+
+[2018-07-05 16:34:44]   Release:      0
+
+[2018-07-05 16:34:44]   Interface:    -1
+
+
+[2018-07-05 16:34:44] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 16:34:44]   Manufacturer: 
+
+[2018-07-05 16:34:44]   Product:      Monect Hid Device
+
+[2018-07-05 16:34:44]   Release:      0
+
+[2018-07-05 16:34:44]   Interface:    -1
+
+
+[2018-07-05 16:55:40] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 16:55:40]   Manufacturer: 
+
+[2018-07-05 16:55:40]   Product:      Monect Hid Device
+
+[2018-07-05 16:55:40]   Release:      0
+
+[2018-07-05 16:55:40]   Interface:    -1
+
+
+[2018-07-05 16:55:40] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 16:55:40]   Manufacturer: 
+
+[2018-07-05 16:55:40]   Product:      Monect Hid Device
+
+[2018-07-05 16:55:40]   Release:      0
+
+[2018-07-05 16:55:40]   Interface:    -1
+
+
+[2018-07-05 17:46:44] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 17:46:44]   Manufacturer: 
+
+[2018-07-05 17:46:44]   Product:      Monect Hid Device
+
+[2018-07-05 17:46:44]   Release:      0
+
+[2018-07-05 17:46:44]   Interface:    -1
+
+
+[2018-07-05 17:46:44] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 17:46:44]   Manufacturer: 
+
+[2018-07-05 17:46:44]   Product:      Monect Hid Device
+
+[2018-07-05 17:46:44]   Release:      0
+
+[2018-07-05 17:46:44]   Interface:    -1
+
+
+[2018-07-05 18:39:30] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 18:39:30]   Manufacturer: 
+
+[2018-07-05 18:39:30]   Product:      Monect Hid Device
+
+[2018-07-05 18:39:30]   Release:      0
+
+[2018-07-05 18:39:30]   Interface:    -1
+
+
+[2018-07-05 18:39:30] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 18:39:30]   Manufacturer: 
+
+[2018-07-05 18:39:30]   Product:      Monect Hid Device
+
+[2018-07-05 18:39:30]   Release:      0
+
+[2018-07-05 18:39:30]   Interface:    -1
+
+
+[2018-07-05 18:39:44] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-05 18:39:44]   Manufacturer: 
+
+[2018-07-05 18:39:44]   Product:      Monect Hid Device
+
+[2018-07-05 18:39:44]   Release:      0
+
+[2018-07-05 18:39:44]   Interface:    -1
+
+
+[2018-07-05 18:39:44] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-05 18:39:44]   Manufacturer: 
+
+[2018-07-05 18:39:44]   Product:      Monect Hid Device
+
+[2018-07-05 18:39:44]   Release:      0
+
+[2018-07-05 18:39:44]   Interface:    -1
+
+
+
+
+[2018-07-10 17:53:08] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-10 17:53:08]   Manufacturer: 
+
+[2018-07-10 17:53:08]   Product:      Monect Hid Device
+
+[2018-07-10 17:53:08]   Release:      0
+
+[2018-07-10 17:53:08]   Interface:    -1
+
+
+[2018-07-10 17:53:08] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-10 17:53:08]   Manufacturer: 
+
+[2018-07-10 17:53:08]   Product:      Monect Hid Device
+
+[2018-07-10 17:53:08]   Release:      0
+
+[2018-07-10 17:53:08]   Interface:    -1
+
+
+[2018-07-10 18:03:20] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-10 18:03:20]   Manufacturer: 
+
+[2018-07-10 18:03:20]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:20]   Release:      0
+
+[2018-07-10 18:03:20]   Interface:    -1
+
+
+[2018-07-10 18:03:20] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-10 18:03:20]   Manufacturer: 
+
+[2018-07-10 18:03:20]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:20]   Release:      0
+
+[2018-07-10 18:03:20]   Interface:    -1
+
+
+[2018-07-10 18:03:22] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-10 18:03:22]   Manufacturer: 
+
+[2018-07-10 18:03:22]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:22]   Release:      0
+
+[2018-07-10 18:03:22]   Interface:    -1
+
+
+[2018-07-10 18:03:22] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-10 18:03:22]   Manufacturer: 
+
+[2018-07-10 18:03:22]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:22]   Release:      0
+
+[2018-07-10 18:03:22]   Interface:    -1
+
+
+[2018-07-10 18:03:23] Local Device Found
+  type: beef feed
+  path: sdl://1
+  serial_number:  - 0
+
+[2018-07-10 18:03:23]   Manufacturer: 
+
+[2018-07-10 18:03:23]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:23]   Release:      0
+
+[2018-07-10 18:03:23]   Interface:    -1
+
+
+[2018-07-10 18:03:23] Local Device Found
+  type: beef feed
+  path: sdl://0
+  serial_number:  - 0
+
+[2018-07-10 18:03:23]   Manufacturer: 
+
+[2018-07-10 18:03:23]   Product:      Monect Hid Device
+
+[2018-07-10 18:03:23]   Release:      0
+
+[2018-07-10 18:03:23]   Interface:    -1
+
+
+[2018-07-10 18:17:58] Opted-in Controller Mask: 30
+
+[2018-07-10 18:20:21] No cached sticky mapping in ActivateActionSet.

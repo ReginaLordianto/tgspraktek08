@@ -1,0 +1,32 @@
+
+
+[2018-07-05 16:30:17] Startup - updater built Jun  8 2018 15:25:12
+[2018-07-05 16:30:17] Verifying installation...
+[2018-07-05 16:31:28] Verification complete
+[2018-07-05 16:31:37] Background update loop checking for update. . .
+[2018-07-05 16:31:37] Checking for available updates...
+[2018-07-05 16:31:38] Download skipped: /client/steam_client_win32 version 1528497815, installed version 1528497815
+[2018-07-05 16:31:38] Nothing to do
+
+
+[2018-07-06 00:22:55] Startup - updater built Jun  8 2018 15:25:12
+[2018-07-06 00:22:55] Checking for update on startup
+[2018-07-06 00:22:55] Checking for available updates...
+[2018-07-06 00:22:56] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2018-07-06 00:22:56] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2018-07-06 00:22:56] failed to load manifest from buffer.
+[2018-07-06 00:22:56] Failed to load manifest
+[2018-07-06 00:22:56] Error: Download failed: http error 0
+[2018-07-06 00:22:56] Verifying installation...
+[2018-07-06 00:22:56] Performing checksum verification of executable files
+[2018-07-06 00:22:59] Shutdown
+[2018-07-06 00:23:00] Verification complete
+
+
+[2018-07-10 17:52:05] Startup - updater built Jun  8 2018 15:25:12
+[2018-07-10 17:52:05] Verifying installation...
+[2018-07-10 17:52:49] Verification complete
+[2018-07-10 17:53:08] Background update loop checking for update. . .
+[2018-07-10 17:53:08] Checking for available updates...
+[2018-07-10 17:53:09] Download skipped: /client/steam_client_win32 version 1528497815, installed version 1528497815
+[2018-07-10 17:53:09] Nothing to do

@@ -1,0 +1,22 @@
+
+
+[2018-07-05 16:31:34] Attempting to find current bucket; temporary dir: D:\newsteam\shader_cache_temp_dir_gl_64
+[2018-07-05 16:31:34] Creating shader cache directory: D:\newsteam\shader_cache_temp_dir_gl_64
+[2018-07-05 16:31:45] Unknown shader cache type, ignoring.
+[2018-07-05 16:31:46] Attempting to find current bucket; temporary dir: D:\newsteam\shader_cache_temp_dir_gl_32
+[2018-07-05 16:31:46] Creating shader cache directory: D:\newsteam\shader_cache_temp_dir_gl_32
+[2018-07-05 16:31:50] Unknown shader cache type, ignoring.
+[2018-07-05 16:31:51] Found 0 current buckets:
+
+
+[2018-07-10 17:53:07] Attempting to find current bucket; temporary dir: D:\newsteam\shader_cache_temp_dir_gl_64
+[2018-07-10 17:53:07] Creating shader cache directory: D:\newsteam\shader_cache_temp_dir_gl_64
+[2018-07-10 17:53:09] Unknown shader cache type, ignoring.
+[2018-07-10 17:53:09] Attempting to find current bucket; temporary dir: D:\newsteam\shader_cache_temp_dir_gl_32
+[2018-07-10 17:53:09] Creating shader cache directory: D:\newsteam\shader_cache_temp_dir_gl_32
+[2018-07-10 17:53:12] Unknown shader cache type, ignoring.
+[2018-07-10 17:53:13] Found 0 current buckets:
+[2018-07-10 18:02:21] AppID 374040 uninstalled, deleting shader cache library folder D:\newsteam\steamapps\shadercache\374040.
+[2018-07-10 18:17:58] Creating shader cache directory: D:\newsteam\steamapps\shadercache\374040
+[2018-07-10 18:20:20] AppID 374040 exited.
+[2018-07-10 18:20:20] Unknown shader cache type, ignoring.

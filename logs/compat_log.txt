@@ -1,0 +1,6 @@
+
+
+[2018-07-05 16:31:36] No local tool list detected at D:\newsteam\compatibilitytools.vdf.
+
+
+[2018-07-10 17:53:07] No local tool list detected at D:\newsteam\compatibilitytools.vdf.

@@ -1,0 +1,18 @@
+
+
+[2018-07-05 18:39:55] Lizard Mode: Reverting to default M/KB Configuration
+
+
+
+[2018-07-10 18:17:44] Lizard Mode: Privileged process
+
+[2018-07-10 18:17:44] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-07-10 18:17:44] OnFocusWindowChanged to Lizard Mode
+
+[2018-07-10 18:17:44] Lizard Mode: Unprivileged process
+
+[2018-07-10 18:17:44] Lizard Mode: Restoring app mapping
+
+[2018-07-10 20:34:52] Lizard Mode: Reverting to default M/KB Configuration
+

@@ -1,0 +1,16 @@
+
+
+[2018-07-05 16:41:01] [AppID 304930] Schema not found on disk
+[2018-07-05 16:41:02] [AppID 304930] CAPIJobRequestUserStats - updated schema from server
+[2018-07-05 16:41:02] [AppID 304930] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-07-05 16:54:55] [AppID 374040] Schema not found on disk
+[2018-07-05 16:54:55] [AppID 374040] CAPIJobRequestUserStats - updated schema from server
+[2018-07-05 16:54:55] [AppID 374040] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2018-07-10 17:54:24] [AppID 374040] Loaded schema from disk.
+[2018-07-10 17:54:24] [AppID 374040] Loading stats from disk...
+[2018-07-10 17:54:24] [AppID 374040] Loading stats from disk...success
+[2018-07-10 17:54:25] [AppID 374040] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-07-10 18:18:04] [AppID 374040] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-07-10 18:20:20] [AppID 374040] CAPIJobStoreUserStats::BInit() - no upload needed
